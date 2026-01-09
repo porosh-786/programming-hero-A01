@@ -197,10 +197,43 @@ nav {
 .idea {
     margin-top: 40px;
 }
-.idea p{
+
+.idea p {
     font-size: 16px;
     font-weight: bolder;
     color: #001931;
     line-height: 20px;
     margin-bottom: 16px;
+}
+
+#ready {
+    margin-top: 2px;
+    padding: 80px 40px;
+    margin: 0 auto;
+}
+
+#ready .ready-container {
+    max-width: 85%;
+    width: 1360px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ready-container h2 {
+    font-size: 40px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.ready-container p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #627382;
+}
+#ready .access{
+    margin-top: 24px;
+}
+#ready .access p{
+    font-size: 16px;
+    color: #627382;
+    margin-top: 16px;
 }
