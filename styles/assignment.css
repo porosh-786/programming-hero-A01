@@ -59,7 +59,8 @@ nav {
     padding: 115.5px 120px 179.5px;
     text-align: center;
 }
-#banner .btn-top{
+
+#banner .btn-top {
     font-size: 16px;
     color: #469165;
     font-weight: 500;
@@ -68,22 +69,26 @@ nav {
     border-radius: 100px;
     margin-bottom: 16px;
 }
-.banner-heading h2{
+
+.banner-heading h2 {
     font-size: 72px;
     color: #FFFFFF;
     line-height: 84px;
     margin-bottom: 16px;
 }
-.banner-heading .heading-color{
+
+.banner-heading .heading-color {
     color: #30B868;
 }
-.banner-heading p{
+
+.banner-heading p {
     font-size: 18px;
     color: #FFFFFF;
     line-height: 28px;
     margin-bottom: 32px;
 }
-.btn{
+
+.btn {
     font-size: 16px;
     font-weight: 600;
     color: #FFFFFF;
@@ -93,66 +98,109 @@ nav {
     border-radius: 4px;
     margin-right: 16px;
 }
-.btn-play{
+
+.btn-play {
     border: 1px solid #FFFFFF;
     border-radius: 4px;
     background-color: transparent;
 }
-#notes{
+
+#notes {
     margin: 0;
 }
-#notes .notes-container{
+
+#notes .notes-container {
     max-width: 85%;
     width: 1360px;
     margin: 0 auto;
 }
-.notes-heading{
+
+.notes-heading {
     text-align: center;
 }
-.notes-heading h2{
+
+.notes-heading h2 {
     font-size: 48px;
     color: #001931;
     margin-bottom: 16px;
 }
-.notes-heading p{
+
+.notes-heading p {
     font-size: 16px;
     color: #627382;
     line-height: 28px;
     margin-bottom: 44px;
 }
-.box-container{
+
+.box-container {
     margin-top: 44px;
     display: flex;
     gap: 24px;
     text-align: center;
 }
-.card-info{
+
+.card-info {
     padding: 69.5px 24px;
     box-shadow: 0 0 8px #000000;
 }
-.card-info img{
+
+.card-info img {
     background-color: #F95555;
     padding: 15px 16px;
     border-radius: 1000px;
     margin-bottom: 16px;
 }
-.card-info h3{
+
+.card-info h3 {
     font-size: 24px;
     font-weight: 600;
     color: #001931;
     margin-bottom: 16px;
 }
-.card-info p{
+
+.card-info p {
     font-size: 16px;
     line-height: 28px;
     color: #627382;
 }
-#brain{
+
+#brain {
     padding: 120px;
 }
-#brain .brain-container{
+
+#brain .brain-container {
     display: flex;
     align-items: center;
     gap: 60px;
 }
-.brain-container
+
+.brain-container .solution {
+    font-size: 16px;
+    color: #469165;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 469165;
+}
+
+.brain-container h2 {
+    font-size: 48px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+.brain-container .brain-p {
+    font-size: 16px;
+    color: #627382;
+    line-height: 28px;
+}
+
+.idea {
+    margin-top: 40px;
+}
+.idea p{
+    font-size: 16px;
+    font-weight: bolder;
+    color: #001931;
+    line-height: 20px;
+    margin-bottom: 16px;
+}
