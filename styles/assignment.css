@@ -224,16 +224,47 @@ nav {
     color: #001931;
     margin-bottom: 16px;
 }
-.ready-container p{
+
+.ready-container p {
     font-size: 16px;
     line-height: 28px;
     color: #627382;
 }
-#ready .access{
+
+#ready .access {
     margin-top: 24px;
 }
-#ready .access p{
+
+#ready .access p {
     font-size: 16px;
     color: #627382;
     margin-top: 16px;
+}
+
+footer {
+    padding: 120px 0 30px;
+    background-color: #001931;
+}
+
+.footer {
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social p{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.social a img {
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    object-fit: cover;
+    margin-right: 16px;
 }
